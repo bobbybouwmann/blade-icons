@@ -45,11 +45,9 @@
                     </svg>
                 </div>
 
-                <div class="mt-8 bg-white dark:bg-gray-800 overflow-hidden shadow sm:rounded-lg">
+                <div class="mt-8 bg-white overflow-hidden shadow sm:rounded-lg p-6">
 
                     <p>The easiest way to get started with using icons from sets are Blade components:</p>
-
-                    <!-- <x-icon name="camera"/> -->
 
                     <x-icon-camera/>
 
